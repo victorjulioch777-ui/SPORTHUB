@@ -1,1 +1,90 @@
+# =========================
+# Operating System
+# =========================
+
+.DS_Store
+Thumbs.db
+
+
+# =========================
+# IDE / Editors
+# =========================
+
+.idea/
+.vscode/
+*.iml
+
+
+# =========================
+# Java
+# =========================
+
+*.class
+*.jar
+*.war
+*.ear
+
+target/
+build/
+
+.gradle/
+
+
+# =========================
+# Node.js
+# =========================
+
+node_modules/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+
+# =========================
+# React / Angular
+# =========================
+
+dist/
+build/
+coverage/
+
+
+# =========================
+# React Native / Expo
+# =========================
+
+.expo/
+.expo-shared/
+
+
+# =========================
+# Environment variables
+# =========================
+
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+
+# =========================
+# Logs
+# =========================
+
+*.log
+logs/
+
+
+# =========================
+# Temporary files
+# =========================
+
+*.tmp
+*.temp
+*.swp
+
 *SportHub_Especificaciones_Proyecto.docx
+*.kilo
